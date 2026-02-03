@@ -3,6 +3,7 @@ channels:
   - defaults
 dependencies:
   - altair
+  - beautifulsoup4
   - bs4
   - fiona
   - gdal
